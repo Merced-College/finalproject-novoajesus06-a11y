@@ -1,5 +1,5 @@
 /*
- * Author: [Your Name]
+ * Author: [Jesus Novoa vasquez]
  * Class: Platform
  *
  * Description:

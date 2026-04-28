@@ -1,5 +1,5 @@
 /*
- * Author: [Your Name]
+ * Author: [Jesus Novoa vasquez]
  * File:   main.cpp
  *
  * Entry point for Platform Quest.

@@ -2,7 +2,7 @@
 #include "Player.h"  // for Vec2
 
 /*
- * Author: [Your Name]
+ * Author: [Jesus Novoa vasquez]
  * Class: Platform
  *
  * Description:

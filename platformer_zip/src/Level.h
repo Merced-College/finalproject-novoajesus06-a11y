@@ -7,7 +7,7 @@
 #include <string>
 
 /*
- * Author: [Your Name]
+ * Author: [Jesus Novoa vasquez]
  * Class: Level
  *
  * Description:

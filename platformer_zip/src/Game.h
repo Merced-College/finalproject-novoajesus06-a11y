@@ -6,7 +6,7 @@
 #include <memory>
 
 /*
- * Author: [Your Name]
+ * Author: [Jesus Novoa vasquez]
  * Class: Game
  *
  * Description:
