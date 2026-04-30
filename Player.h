@@ -3,7 +3,7 @@
 #include <vector>
 
 /*
- * Author: [Jesus Novoa vasquez]
+ * Author: [Your Name]
  * Class: Player
  *
  * Description:

@@ -2,7 +2,7 @@
 #include "Player.h"
 
 /*
- * Author: [Jesus Novoa vasquez]
+ * Author: [Your Name]
  * Class: Coin
  *
  * Description:

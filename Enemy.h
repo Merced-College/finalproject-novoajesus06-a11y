@@ -2,7 +2,7 @@
 #include "Player.h"
 
 /*
- * Author: [Jesus Novoa vasquez]
+ * Author: [Your Name]
  * Class: Enemy
  *
  * Description:
@@ -22,6 +22,7 @@ public:
 
     Vec2 getPos()  const;
     Vec2 getSize() const;
+    Type getType() const;
 
 private:
     Vec2  pos;

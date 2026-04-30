@@ -1,5 +1,5 @@
 /*
- * Author: [Jesus Novoa vasquez]
+ * Author: [Your Name]
  * Class: Enemy
  *
  * Description:
@@ -89,3 +89,4 @@ bool Enemy::checkPlayerCollision(Player& player) {
 bool Enemy::isDefeated() const { return defeated; }
 Vec2 Enemy::getPos()     const { return pos; }
 Vec2 Enemy::getSize()    const { return size; }
+Enemy::Type Enemy::getType() const { return type; }
